@@ -1,4 +1,3 @@
-```markdown
 [![GitHub](https://img.shields.io/badge/GitHub-imad213rsa-000?logo=github)](https://github.com/imadoo27/imad213rsa)
 [![PyPI](https://img.shields.io/pypi/v/imad213rsa?color=blue&logo=pypi)](https://pypi.org/project/imad213rsa/)
 
