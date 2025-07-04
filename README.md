@@ -3,6 +3,14 @@
 
 # 🔐 IMAD213 RSA – Military-Grade Python Code Encryption
 
+> ⚠️ **Security Warning:**  
+> All versions **below 213.9** contain a **known decryption vulnerability** that may allow attackers to recover original source code under certain conditions.  
+> It is **strongly recommended** to upgrade to **version 213.9 or higher** immediately to ensure maximum protection.  
+> ✅ Upgrade now with:  
+> ```bash
+> pip install imad213rsa --upgrade
+> ```
+
 `imad213rsa` is a high-security encryption tool designed to protect your Python source code using the latest military-grade cryptographic techniques, combining **AES-256-GCM**, **RSA-4096**, and **deep anti-debugging layers**. This tool makes decryption nearly impossible without the original private key, even for advanced analysts.
 
 ---
