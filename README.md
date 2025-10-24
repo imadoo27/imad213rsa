@@ -34,17 +34,17 @@
 
 Install via `pip`:
 
-\`\`\`bash
+```bash
 pip install im333rsa
-\`\`\`
+```
 
 ---
 
 ## 🔧 Usage
 
-\`\`\`bash
+```bash
 im333rsa yourfile.py
-\`\`\`
+```
 
 ✅ Output will be:
 ```
@@ -57,12 +57,12 @@ This new file is encrypted and protected. It runs only with its embedded logic a
 
 ## 📄 Example
 
-\`\`\`bash
+```bash
 # Encrypt your Python script
 im333rsa script.py
 
 # Output: script_secure.py (encrypted, protected, and anti-debug)
-\`\`\`
+```
 
 ---
 
