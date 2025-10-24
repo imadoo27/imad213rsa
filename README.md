@@ -1,17 +1,19 @@
-[![GitHub](https://img.shields.io/badge/GitHub-imad213rsa-000?logo=github)](https://github.com/imadoo27/imad213rsa)
-[![PyPI](https://img.shields.io/pypi/v/imad213rsa?color=blue&logo=pypi)](https://pypi.org/project/imad213rsa/)
+[![GitHub](https://img.shields.io/badge/GitHub-imad213rsaa-000?logo=github)](https://github.com/imadoo27/im333rsa)
+[![PyPI](https://img.shields.io/pypi/v/im333rsa?color=blue&logo=pypi)](https://pypi.org/project/im333rsa/)
 
 # 🔐 IMAD213 RSA – Military-Grade Python Code Encryption
 
-> ⚠️ **Security Warning:**  
-> All versions **below 213.9** contain a **known decryption vulnerability** that may allow attackers to recover original source code under certain conditions.  
-> It is **strongly recommended** to upgrade to **version 213.9 or higher** immediately to ensure maximum protection.  
-> ✅ Upgrade now with:  
-> ```bash
-> pip install imad213rsa --upgrade
-> ```
+`im333rsa` is a high-security encryption tool designed to protect your Python source code using the latest military-grade cryptographic techniques, combining **AES-256-GCM**, **RSA-4096**, and **deep anti-debugging layers**. This tool makes decryption nearly impossible without the original private key, even for advanced analysts.
 
-`imad213rsa` is a high-security encryption tool designed to protect your Python source code using the latest military-grade cryptographic techniques, combining **AES-256-GCM**, **RSA-4096**, and **deep anti-debugging layers**. This tool makes decryption nearly impossible without the original private key, even for advanced analysts.
+---
+
+## 🎉 Important Update
+
+> **✨ The library has been significantly upgraded with professional-grade performance!**
+> 
+> **📦 New Library Name: `im333rsa`**
+> 
+> **🚀 The new version includes major improvements and advanced professional performance**
 
 ---
 
@@ -32,22 +34,22 @@
 
 Install via `pip`:
 
-```bash
-pip install imad213rsa
-```
+\`\`\`bash
+pip install im333rsa
+\`\`\`
 
 ---
 
 ## 🔧 Usage
 
-```bash
-imad213rsa yourfile.py
-```
+\`\`\`bash
+im333rsa yourfile.py
+\`\`\`
 
 ✅ Output will be:
-```
+\`\`\`
 yourfile_secure.py
-```
+\`\`\`
 
 This new file is encrypted and protected. It runs only with its embedded logic and cannot be decrypted without the internal RSA key.
 
@@ -55,12 +57,12 @@ This new file is encrypted and protected. It runs only with its embedded logic a
 
 ## 📄 Example
 
-```bash
+\`\`\`bash
 # Encrypt your Python script
-imad213rsa script.py
+im333rsa script.py
 
 # Output: script_secure.py (encrypted, protected, and anti-debug)
-```
+\`\`\`
 
 ---
 
@@ -77,10 +79,21 @@ imad213rsa script.py
 
 ---
 
+## 📧 Development Requests & Support
+
+For any development requests, improvements, or inquiries, please contact us:
+
+**📬 Email: `imad213.official@gmail.com`**
+
+We are here to help you and develop your programming needs!
+
+---
+
 ## 👤 Author
 
-**Imad Madmad**  
-📧 Email: `madmadimado59@gmail.com`  
+**Imad Madmad**   
+
+📧 Official Email: `imad213.official@gmail.com`  
 🔒 Creator of high-security Python tools  
 
 ---
@@ -91,10 +104,8 @@ MIT License – Use responsibly.
 
 ---
 
-## 🗨️ Arabic Description 
+## 📝 الوصف بالعربية
 
-IMAD213 RSA هي أداة لتشفير سكربتات بايثون باستخدام خوارزميات تشفير عسكرية مثل AES وRSA.  
-تمنع التحليل الهندسي والتجسس على الكود، وتدمر نفسها إذا تم اكتشاف أدوات مراقبة.  
-أداة احترافية لحماية مشاريعك البرمجية.
+مكتبة IMAD213 RSA هي أداة احترافية لتشفير سكربتات بايثون باستخدام خوارزميات تشفير عسكرية متقدمة (AES-256 و RSA-4096). توفر حماية عالية جداً ضد التحليل الهندسي والتجسس على الكود، وتتضمن آليات تدمير ذاتي عند اكتشاف محاولات تحليل أو تعديل. مثالية لحماية مشاريعك البرمجية الحساسة والقيمة.
 
 ---
