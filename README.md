@@ -47,9 +47,9 @@ im333rsa yourfile.py
 \`\`\`
 
 ✅ Output will be:
-\`\`\`
+```
 yourfile_secure.py
-\`\`\`
+```
 
 This new file is encrypted and protected. It runs only with its embedded logic and cannot be decrypted without the internal RSA key.
 
